@@ -46,7 +46,7 @@ Data is fetched live from [spot-hinta.fi](https://spot-hinta.fi) for today and t
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/tunti-vs-vartti.git
+git clone https://github.com/JussiSavola/tunti-vs-vartti.git
 cd tunti-vs-vartti
 pip install requests pandas
 ```
